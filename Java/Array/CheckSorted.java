@@ -32,7 +32,7 @@ public class CheckSorted {
             System.out.println("Array is sorted");
         }
         else{
-            System.out.println("Not sorted array");
+            System.out.println("Not a sorted array");
         }
 
         int choice=0;
